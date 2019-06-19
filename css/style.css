@@ -1,0 +1,106 @@
+.texto-escondido {
+    color: transparent;
+}
+
+.banner {
+    background: url('../img/banner.jpg') no-repeat center center !important;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 382px !important;
+    
+}
+
+.img-inst {
+    margin: 0 35px;
+}
+
+
+.sobre-section {
+    background: url('../img/fundo22.jpg') no-repeat top;
+    background-size: cover;
+    background-attachment: fixed;  
+    padding: 30px 0;
+    text-align: inherit;
+}
+
+.palestrantes-section {
+    background: url('../img/fundo3.jpg') no-repeat top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: hard-light;
+    text-align: center;  
+    padding: 15px;          
+}
+
+.programacao-section {
+    background: url('../img/fundo4.jpg') no-repeat top;
+    background-size: cover;
+    background-attachment: fixed; 
+    text-align: center;         
+}
+
+.rodape {
+    background-color: rgba(33,198,75,0.5);
+}
+.card{
+  display: flex;
+  -ms-flex: 1 0 0%;
+  flex: 1 0 0%;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  margin-left: 15px;
+    
+}
+
+.card-img-top{
+  max-width: 300px; 
+  max-height: 400x;
+}
+
+.espaco{
+  padding: 15px;
+}
+
+.card-footer{
+background-color: #287432;
+}
+
+.text-muted{
+  color:white !important;
+}
+
+.titulo-tabela{
+background-color: #21c64b;
+}
+.relogio {
+  font-size: 100px;
+  padding: 02px;
+  padding-left: 50px;
+  background-color: #69aa79;
+  border-radius: 100%;
+  border-style: solid;
+  border-width: 07px;
+  border-color: #287432;
+  display:inline;
+  
+}
+
+
+.contator {
+    background-color: #21c64b; 
+    text-align: center;
+    font-size: 110px;
+    padding: 15px;
+
+}
+
+.alinhando{
+    color: red;
+    max-width: auto;
+    max-height: auto;
+    width:100px;
+    height:100px;
+}
